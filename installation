@@ -1,0 +1,8 @@
+create project : django-admin startproject "projectname"
+createa app : django-admin startapp "Appname"
+
+run command : python manage.py ruserver 
+migrate: python manage.py migrate 
+make migration : python manage.py makemagrations
+migrate : python manage.py migrate 
+
